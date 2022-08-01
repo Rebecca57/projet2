@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+body{
+	background-color: #ddd3c6;
+}
+
+#header{
+	background-color: #9dd7e1;
+	display: flex;
+	justify-content: space-between;
+}
+
+#footer{
+	background-color: #9dd7e1;
+}
+
+#menu{
+	background-color: #c09a74;
+}
+
+label{
+	font-weight: bold;
+	color: #0080c0;
+}
+
+.tache{
+	color: red;
+}
